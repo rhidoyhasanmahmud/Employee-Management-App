@@ -16,20 +16,20 @@ This project has following features-
 
 > Show all Employee
 
-![Show-All-Data](https://github.com/CodeMechanix/Spring-Boot-REST-API-CRUD-Application/blob/master/img/02_Show_All_Data.PNG)
+![Show-All-Data](https://github.com/CodeMechanix/Employee-Management-App/blob/master/img/01_Employee_List.PNG)
 
 > Add Employee
 
-![Add-Data](https://github.com/CodeMechanix/Spring-Boot-REST-API-CRUD-Application/blob/master/img/01_Create_Data.PNG)
+![Add-Data](https://github.com/CodeMechanix/Employee-Management-App/blob/master/img/02_Update_Data.PNG)
 
 > View Specific Employee by ID
 
-![Get-Data](https://github.com/CodeMechanix/Spring-Boot-REST-API-CRUD-Application/blob/master/img/03_Get_Specific_Data_By_ID.PNG)
+![Get-Data](https://github.com/CodeMechanix/Employee-Management-App/blob/master/img/03_View_Specific_Data.PNG)
 
 > Edit Employee By ID
 
-![Update-Data](https://github.com/CodeMechanix/Spring-Boot-REST-API-CRUD-Application/blob/master/img/04_Update_Data_By_ID.PNG)
+![Update-Data](https://github.com/CodeMechanix/Employee-Management-App/blob/master/img/02_Update_Data.PNG)
 
 > Delete Specific Employee by ID
 
-![Delete-Data](https://github.com/CodeMechanix/Spring-Boot-REST-API-CRUD-Application/blob/master/img/05_Delete_Data_By_ID.PNG)
+![Delete-Data](https://github.com/CodeMechanix/Employee-Management-App/blob/master/img/01_Employee_List.PNG)
